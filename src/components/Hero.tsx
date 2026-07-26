@@ -25,7 +25,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenEstimator }) => {
 
         {/* Headline */}
         <h1 className="font-['Hanken_Grotesk'] text-4xl sm:text-5xl md:text-6xl font-extrabold text-[#1a1c1c] leading-tight tracking-tight">
-          Wujudkan Ide Aplikasi <span className="text-[#795900]">Mobile inovatif Anda</span> Bersama Kami
+          Wujudkan Ide Aplikasi <span className="text-[#795900]">Mobile Impian Anda</span> Bersama Kami
         </h1>
 
         {/* Subtitle */}
