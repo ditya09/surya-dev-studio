@@ -1,0 +1,6 @@
+{
+  "name": "Surya Dev Studio",
+  "description": "Butik Pengembangan Aplikasi Mobile Flutter Berkinerja Tinggi - Surya Dev Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
